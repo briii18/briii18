@@ -37,6 +37,9 @@ Soy **BRIII18**, una persona con **poca experiencia en el ámbito de GitHub**, p
 
 ¡Gracias por visitar mi perfil! 🌧️🎶🚶‍♀️
 
+### Cambios en la nueva rama
+Esta línea fue agregada en la rama llamada "nueva-rama".
+
 
 <!--
 **briii18/briii18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
